@@ -4,10 +4,10 @@
 <!-- Subtítulo -->
 <p align="center"><em>Junior Full - Stack Java Developer 💻</em></p>
 
-<!-- Separador -->
+<!-- Separador 
 <hr>
-![BannerReadme]([https://github.com/LuisaCastano40/LuisaCastano40/issues/1#issue-2100843129](https://github.com/LuisaCastano40/LuisaCastano40/assets/132719028/c3459068-fc0a-4461-840f-ff32d9d4f064))
-
+![Banner](https://github.com/LuisaCastano40/LuisaCastano40/assets/132719028/fb0ea06b-112a-435c-a24f-8a9333e9ad83)
+-->
 ---
 
 ## About Me
