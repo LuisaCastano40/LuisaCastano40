@@ -1,5 +1,5 @@
 <!-- Centrar el título -->
-<h1 align="center"> Hello, I'm Luisa Fernanda Castaño Vanegas 👋🏼</h1>
+<h1 align="center"> Hello, it's a pleasure to introduce myself 👋🏼</h1>
 
 <!-- Subtítulo -->
 <p align="center"><em>Junior Full - Stack Java Developer 💻</em></p>
@@ -68,7 +68,7 @@ You can check out my [resume](https://drive.google.com/file/d/1p4Wu8YLhKTSxn_bWy
 ---
 
 <div align="center">
-  
+
   ```
                              \\\\\\\     /////  
                             \\\\\\\\\\\\\\/////
