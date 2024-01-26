@@ -6,6 +6,7 @@
 
 <!-- Separador -->
 <hr>
+
 ![Banner](/BannerReadme.svg)
 
 
