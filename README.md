@@ -6,7 +6,7 @@
 
 <!-- Separador -->
 <hr>
-![Banner](https://github.com/LuisaCastano40/LuisaCastano40/raw/main/assets/132719028/fb0ea06b-112a-435c-a24f-8a9333e9ad83)
+![Banner](/BannerReadme.svg)
 
 
 ---
